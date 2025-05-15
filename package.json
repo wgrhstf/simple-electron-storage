@@ -1,0 +1,29 @@
+{
+  "name": "simple-electron-storage",
+  "version": "1.0.0",
+  "description": "Minimalistic persistent JSON store for Electron apps",
+  "keywords": [
+    "electron",
+    "store",
+    "persistent",
+    "json"
+  ],
+  "homepage": "https://github.com/wgrhstf/simple-electron-storage#readme",
+  "bugs": {
+    "url": "https://github.com/wgrhstf/simple-electron-storage/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wgrhstf/simple-electron-storage.git"
+  },
+  "license": "MIT",
+  "author": "Patrick Wallisch",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
